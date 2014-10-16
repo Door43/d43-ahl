@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahl:home|Door43 (ahl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahl|d43-ahl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahl/archive/master.zip|d43-ahl.zip]]
+
+**Recent Changes**
+{{changes>ns = ahl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahl|Ethnologue data]]
+
